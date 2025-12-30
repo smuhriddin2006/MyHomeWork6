@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PracticeH\MainApp5\bin\Debug\net9.0\MainApp5.exe
+C:\Users\user\Desktop\PracticeH\MainApp5\bin\Debug\net9.0\MainApp5.deps.json
+C:\Users\user\Desktop\PracticeH\MainApp5\bin\Debug\net9.0\MainApp5.runtimeconfig.json
+C:\Users\user\Desktop\PracticeH\MainApp5\bin\Debug\net9.0\MainApp5.dll
+C:\Users\user\Desktop\PracticeH\MainApp5\bin\Debug\net9.0\MainApp5.pdb
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.AssemblyInfo.cs
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.dll
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\refint\MainApp5.dll
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.pdb
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\MainApp5.genruntimeconfig.cache
+C:\Users\user\Desktop\PracticeH\MainApp5\obj\Debug\net9.0\ref\MainApp5.dll
